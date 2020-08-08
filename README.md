@@ -15,7 +15,8 @@
 
 ## Buy me a Pizza
 If you like the time I put into making this hack to work, you can help me with some money, [click here](https://www.paypal.com/donate/?token=41YfwmRNjiRv9reo_0DTNmLNfkL-GJbUTYLr1UjvBokdRwKdNdIWkUqWD_PnpTQpGwxZo0)
-Thank a lot!
+
+Thanks a lot!
 
 ## Credits
 - Hackintosh Community
